@@ -1,6 +1,7 @@
 # Usage
 
-* Clone the repo.
+* Clone the repository.
+* Run `npm install` to install dependencies.
 * Create a new branch.
 * Add a page to the Examples or Prototypes directory:
   * Create a `.md` file in the relevant folder of `pages`.

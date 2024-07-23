@@ -45,7 +45,7 @@ export default {
   // Some additional configuration options and their defaults:
   theme: ["air"], // try "light", "dark", "slate", etc.
   // header: "", // what to show in the header (HTML)
-  footer: "Add a link to the GitHub repo here", // what to show in the footer (HTML)
+  footer: "Go to the <a href='https://github.com/opentargets/ot-vis-playground'>Github repository</a>", // what to show in the footer (HTML)
   // sidebar: true, // whether to show the sidebar
   // toc: true, // whether to show the table of contents
   pager: true, // whether to show previous & next links in the footer
