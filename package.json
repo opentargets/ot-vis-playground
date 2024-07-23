@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "clean": "rimraf src/.observablehq/cache",
+    "build": "rimraf dist && observable build",
+    "dev": "observable preview",
+    "dev-debug": "observable preview --debug",
+    "deploy": "observable deploy",
+    "observable": "observable"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter": "^5.0.19",
+    "@observablehq/framework": "^1.9.0",
+    "d3-dsv": "^3.0.1",
+    "d3-time-format": "^4.1.0",
+    "highlight.js": "^11.10.0"
+  },
+  "devDependencies": {
+    "rimraf": "^5.0.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

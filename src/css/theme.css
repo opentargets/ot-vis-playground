@@ -1,0 +1,52 @@
+@import url("observablehq:default.css");
+
+:root {
+
+  /* page foreground color, e.g. black */
+  --theme-foreground: #5a5f5f;
+  
+  /* page background color, e.g. white */
+  --theme-background: #fff;
+  
+  /* block background color, e.g. light gray */
+  --theme-background-alt: #fafafa; 
+
+  /* heading foreground color, e.g. brown */
+  --theme-foreground-alt: #616161;
+
+  /* secondary text foreground color, e.g. dark gray */
+  --theme-foreground-muted: #717171;
+  
+  /* faint border color, e.g. middle gray */
+  --theme-foreground-faint: #999999;
+
+  /* fainter border color, e.g. light gray */
+  --theme-foreground-fainter: #c1c1c1;
+
+  /* faintest border color, e.g. almost white */
+  --theme-foreground-faintest: #e1e1e1;
+
+  /* emphasis foreground color, e.g. blue */
+  --theme-foreground-focus: #3489CA;
+  
+  /* set both serif and sans-serif variables to OT Platform font */
+  --serif: 'Inter Variable', sans-serif;
+  --sans-serif: 'Inter Variable', sans-serif;
+
+}
+
+/* override font sizes and line heights */
+
+body {
+  font-size: 15px;
+}
+
+.card {
+  line-height: 1.4;
+}
+pre,
+code,
+tt,
+.observablehq--inspect {
+  font-size: 13.3px;
+}
