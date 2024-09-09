@@ -19,6 +19,7 @@ export default {
       pages: [
         { name: "React", path: "/pages/examples/react" },
         { name: "Plot", path: "/pages/examples/plot" },
+        { name: "Comparative Genomics", path: "/pages/examples/comparative-genomics" },
       ]
     },
     {

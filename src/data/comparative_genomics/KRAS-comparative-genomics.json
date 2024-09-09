@@ -1,0 +1,443 @@
+
+[
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000116473",
+            "targetGeneSymbol": "RAP1A",
+            "queryPercentageIdentity": 55.3191,
+            "targetPercentageIdentity": 56.5217
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000127314",
+            "targetGeneSymbol": "RAP1B",
+            "queryPercentageIdentity": 54.2553,
+            "targetPercentageIdentity": 55.4348
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000143622",
+            "targetGeneSymbol": "RIT1",
+            "queryPercentageIdentity": 50,
+            "targetPercentageIdentity": 42.9224
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000158186",
+            "targetGeneSymbol": "MRAS",
+            "queryPercentageIdentity": 52.6596,
+            "targetPercentageIdentity": 47.5962
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000162595",
+            "targetGeneSymbol": "DIRAS3",
+            "queryPercentageIdentity": 29.2553,
+            "targetPercentageIdentity": 24.0175
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000166592",
+            "targetGeneSymbol": "RRAD",
+            "queryPercentageIdentity": 30.3191,
+            "targetPercentageIdentity": 18.5065
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000167550",
+            "targetGeneSymbol": "RHEBL1",
+            "queryPercentageIdentity": 31.9149,
+            "targetPercentageIdentity": 32.7869
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000181467",
+            "targetGeneSymbol": "RAP2B",
+            "queryPercentageIdentity": 44.6809,
+            "targetPercentageIdentity": 45.9016
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000197885",
+            "targetGeneSymbol": "NKIRAS1",
+            "queryPercentageIdentity": 27.6596,
+            "targetPercentageIdentity": 27.0833
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000213281",
+            "targetGeneSymbol": "NRAS",
+            "queryPercentageIdentity": 84.0426,
+            "targetPercentageIdentity": 83.5979
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000152214",
+            "targetGeneSymbol": "RIT2",
+            "queryPercentageIdentity": 48.4043,
+            "targetPercentageIdentity": 41.9355
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000134533",
+            "targetGeneSymbol": "RERG",
+            "queryPercentageIdentity": 34.0426,
+            "targetPercentageIdentity": 32.1608
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000176490",
+            "targetGeneSymbol": "DIRAS1",
+            "queryPercentageIdentity": 37.234,
+            "targetPercentageIdentity": 35.3535
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000174775",
+            "targetGeneSymbol": "HRAS",
+            "queryPercentageIdentity": 86.1702,
+            "targetPercentageIdentity": 85.7143
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000164949",
+            "targetGeneSymbol": "GEM",
+            "queryPercentageIdentity": 32.4468,
+            "targetPercentageIdentity": 20.6081
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000187682",
+            "targetGeneSymbol": "ERAS",
+            "queryPercentageIdentity": 45.7447,
+            "targetPercentageIdentity": 36.9099
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000088320",
+            "targetGeneSymbol": "REM1",
+            "queryPercentageIdentity": 28.1915,
+            "targetPercentageIdentity": 17.7852
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000128045",
+            "targetGeneSymbol": "RASL11B",
+            "queryPercentageIdentity": 31.9149,
+            "targetPercentageIdentity": 24.1935
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000270885",
+            "targetGeneSymbol": "RASL10B",
+            "queryPercentageIdentity": 25.5319,
+            "targetPercentageIdentity": 23.6453
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000144118",
+            "targetGeneSymbol": "RALB",
+            "queryPercentageIdentity": 50,
+            "targetPercentageIdentity": 45.6311
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000133818",
+            "targetGeneSymbol": "RRAS2",
+            "queryPercentageIdentity": 55.3191,
+            "targetPercentageIdentity": 50.9804
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000123728",
+            "targetGeneSymbol": "RAP2C",
+            "queryPercentageIdentity": 44.6809,
+            "targetPercentageIdentity": 45.9016
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000103710",
+            "targetGeneSymbol": "RASL12",
+            "queryPercentageIdentity": 28.7234,
+            "targetPercentageIdentity": 20.3008
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000006451",
+            "targetGeneSymbol": "RALA",
+            "queryPercentageIdentity": 51.0638,
+            "targetPercentageIdentity": 46.6019
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000106615",
+            "targetGeneSymbol": "RHEB",
+            "queryPercentageIdentity": 34.0426,
+            "targetPercentageIdentity": 34.7826
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000100276",
+            "targetGeneSymbol": "RASL10A",
+            "queryPercentageIdentity": 24.4681,
+            "targetPercentageIdentity": 22.6601
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000122035",
+            "targetGeneSymbol": "RASL11A",
+            "queryPercentageIdentity": 30.8511,
+            "targetPercentageIdentity": 23.9669
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000139890",
+            "targetGeneSymbol": "REM2",
+            "queryPercentageIdentity": 28.7234,
+            "targetPercentageIdentity": 15.8824
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000168256",
+            "targetGeneSymbol": "NKIRAS2",
+            "queryPercentageIdentity": 25.5319,
+            "targetPercentageIdentity": 25.1309
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000126458",
+            "targetGeneSymbol": "RRAS",
+            "queryPercentageIdentity": 53.7234,
+            "targetPercentageIdentity": 46.3303
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000108551",
+            "targetGeneSymbol": "RASD1",
+            "queryPercentageIdentity": 37.234,
+            "targetPercentageIdentity": 24.911
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000125249",
+            "targetGeneSymbol": "RAP2A",
+            "queryPercentageIdentity": 44.6809,
+            "targetPercentageIdentity": 45.9016
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000111404",
+            "targetGeneSymbol": "RERGL",
+            "queryPercentageIdentity": 26.5957,
+            "targetPercentageIdentity": 24.5098
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000165023",
+            "targetGeneSymbol": "DIRAS2",
+            "queryPercentageIdentity": 38.2979,
+            "targetPercentageIdentity": 36.1809
+          },
+          {
+            "speciesId": "9606",
+            "speciesName": "Human",
+            "homologyType": "other_paralog",
+            "isHighConfidence": "NULL",
+            "targetGeneId": "ENSG00000100302",
+            "targetGeneSymbol": "RASD2",
+            "queryPercentageIdentity": 36.1702,
+            "targetPercentageIdentity": 25.5639
+          },
+          {
+            "speciesId": "9598",
+            "speciesName": "Chimpanzee",
+            "homologyType": "ortholog_one2one",
+            "isHighConfidence": "1",
+            "targetGeneId": "ENSPTRG00000004775",
+            "targetGeneSymbol": "KRAS",
+            "queryPercentageIdentity": 90.4255,
+            "targetPercentageIdentity": 89.9471
+          },
+          {
+            "speciesId": "9544",
+            "speciesName": "Macaque",
+            "homologyType": "ortholog_one2one",
+            "isHighConfidence": "0",
+            "targetGeneId": "ENSMMUG00000015381",
+            "targetGeneSymbol": "KRAS",
+            "queryPercentageIdentity": 79.7872,
+            "targetPercentageIdentity": 36.4078
+          },
+          {
+            "speciesId": "10090",
+            "speciesName": "Mouse",
+            "homologyType": "ortholog_one2one",
+            "isHighConfidence": "1",
+            "targetGeneId": "ENSMUSG00000030265",
+            "targetGeneSymbol": "Kras",
+            "queryPercentageIdentity": 90.4255,
+            "targetPercentageIdentity": 89.9471
+          },
+          {
+            "speciesId": "9986",
+            "speciesName": "Rabbit",
+            "homologyType": "ortholog_one2one",
+            "isHighConfidence": "1",
+            "targetGeneId": "ENSOCUG00000012106",
+            "targetGeneSymbol": "KRAS",
+            "queryPercentageIdentity": 89.8936,
+            "targetPercentageIdentity": 89.418
+          },
+          {
+            "speciesId": "10141",
+            "speciesName": "Guinea Pig",
+            "homologyType": "ortholog_one2one",
+            "isHighConfidence": "1",
+            "targetGeneId": "ENSCPOG00000030290",
+            "targetGeneSymbol": "KRAS",
+            "queryPercentageIdentity": 90.4255,
+            "targetPercentageIdentity": 89.9471
+          },
+          {
+            "speciesId": "9615",
+            "speciesName": "Dog",
+            "homologyType": "ortholog_one2one",
+            "isHighConfidence": "1",
+            "targetGeneId": "ENSCAFG00845026771",
+            "targetGeneSymbol": "KRAS",
+            "queryPercentageIdentity": 89.3617,
+            "targetPercentageIdentity": 88.8889
+          },
+          {
+            "speciesId": "9823",
+            "speciesName": "Pig",
+            "homologyType": "ortholog_one2one",
+            "isHighConfidence": "1",
+            "targetGeneId": "ENSSSCG00000026969",
+            "targetGeneSymbol": "KRAS",
+            "queryPercentageIdentity": 90.4255,
+            "targetPercentageIdentity": 89.9471
+          },
+          {
+            "speciesId": "8364",
+            "speciesName": "Tropical clawed frog",
+            "homologyType": "ortholog_one2one",
+            "isHighConfidence": "1",
+            "targetGeneId": "ENSXETG00000043145",
+            "targetGeneSymbol": "krasl",
+            "queryPercentageIdentity": 90.4255,
+            "targetPercentageIdentity": 89.9471
+          },
+          {
+            "speciesId": "7955",
+            "speciesName": "Zebrafish",
+            "homologyType": "ortholog_one2one",
+            "isHighConfidence": "0",
+            "targetGeneId": "ENSDARG00000010844",
+            "targetGeneSymbol": "kras",
+            "queryPercentageIdentity": 87.766,
+            "targetPercentageIdentity": 87.3016
+          }
+        ]
